@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "username": "shirley",
+    "email": "shirley@test.com",
+    "password": "weakpassword"
+  },
+  {
+    "id": 2,
+    "username": "Mike",
+    "password": "$2a$10$pZJcxjG8Vw1kcDwywxIRLuS4VC2IT9RjoL4Qk4v/QgLDrYgYwv1B2",
+    "email": "mike@test.com"
+  },
+  {
+    "id": 3,
+    "username": "Sam",
+    "password": "$2a$10$GbfWS7M6Bx1RUYTRE14EjulZCsUwUa2C.eM276za.MS6N7fr2//OO",
+    "email": "sam@test.com"
+  },
+  {
+    "id": 4,
+    "username": "John",
+    "password": "$2a$10$Hrib2PqORjeZ1z3pStEia.hVRKirnNIhDy.iOErXoPlxrFapVq/hi",
+    "email": "john@test.com"
+  }
+]
